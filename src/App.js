@@ -1,4 +1,4 @@
-import './app.css';
+import './App.css';
 import { HiOutlineHome } from 'react-icons/hi';
 import { CgProfile } from 'react-icons/cg';
 import { AiOutlineMessage } from 'react-icons/ai';
