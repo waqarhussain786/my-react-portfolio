@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   
-  /* :root {
+  :root {
     --clr: #222327;
     --color: #fff;
   }
@@ -65,6 +65,6 @@
     transition: 0.5s;
     color: var(--clr);
   }
-   */
+  
   
   
