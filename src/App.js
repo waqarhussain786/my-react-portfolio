@@ -1,14 +1,14 @@
-import './App.css';
-import { HiOutlineHome } from 'react-icons/hi';
-import { CgProfile } from 'react-icons/cg';
-import { AiOutlineMessage } from 'react-icons/ai';
-import { FiSettings } from 'react-icons/fi';
-import { MdOutlinePhotoCamera } from 'react-icons/md';
+// import './App.css';
+// import { HiOutlineHome } from 'react-icons/hi';
+// import { CgProfile } from 'react-icons/cg';
+// import { AiOutlineMessage } from 'react-icons/ai';
+// import { FiSettings } from 'react-icons/fi';
+// import { MdOutlinePhotoCamera } from 'react-icons/md';
 
 function App() {
   return (
     <div className="navigation">
-      <ul>
+      {/* <ul>
         <li className="list">
           <a href="#">
             <span className="icon" ><HiOutlineHome /></span>
@@ -31,7 +31,7 @@ function App() {
             <span className="icon">Photos</span>
           </a>
         </li>
-      </ul>
+      </ul> */}
     </div>
   );
 }
