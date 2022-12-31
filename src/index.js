@@ -2,12 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import Navbartop from './navbar';
+import NavbarBootstrap from './navbarBootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Navbartop />
+    <NavbarBootstrap />
+    {/* <Navbartop /> */}
     <App />
   </React.StrictMode>
 );
