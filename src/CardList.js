@@ -4,9 +4,14 @@ import Card from './Card';
 const CardList = ({ RobotList }) => {
 
     return (
-        <div className='center'>
+        <div>
             {RobotList.map((user, i) => {
-                return <Card key={i} id={RobotList[i].id} name={RobotList[i].Name} email={RobotList[i].email} />
+                return <Card
+                    key={i}
+                    id={RobotList[i].id}
+                    name={RobotList[i].Name}
+                    email={RobotList[i].email}
+                />
             })}
         </div>
     )
