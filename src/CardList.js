@@ -6,12 +6,7 @@ const CardList = ({ RobotList }) => {
     return (
         <div>
             {RobotList.map((user, i) => {
-                return <Card
-                    key={i}
-                    id={RobotList[i].id}
-                    name={RobotList[i].Name}
-                    email={RobotList[i].email}
-                />
+                return <Card key={i} id={RobotList[i].id} name={RobotList[i].Name} email={RobotList[i].email} />
             })}
         </div>
     )
