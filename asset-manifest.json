@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/robot-cards/static/css/main.909ac866.css",
-    "main.js": "/robot-cards/static/js/main.0d89be88.js",
-    "index.html": "/robot-cards/index.html",
-    "main.909ac866.css.map": "/robot-cards/static/css/main.909ac866.css.map",
-    "main.0d89be88.js.map": "/robot-cards/static/js/main.0d89be88.js.map"
+    "main.css": "/udemy-react/static/css/main.909ac866.css",
+    "main.js": "/udemy-react/static/js/main.0d89be88.js",
+    "index.html": "/udemy-react/index.html",
+    "main.909ac866.css.map": "/udemy-react/static/css/main.909ac866.css.map",
+    "main.0d89be88.js.map": "/udemy-react/static/js/main.0d89be88.js.map"
   },
   "entrypoints": [
     "static/css/main.909ac866.css",
